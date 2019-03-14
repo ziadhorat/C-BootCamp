@@ -5,4 +5,7 @@ Very small amounts of this code is right, soon i will get around to adding my ma
 
 
 Good vim theme : https://github.com/morhetz/gruvbox
+
 How to perma alias : https://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/
+
+Norm at home : https://github.com/Gegel85/norminette
